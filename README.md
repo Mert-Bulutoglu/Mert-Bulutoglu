@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mert Bulutoglu</h1>
-<h3 align="center">A desirous Full Stack Developer from Istanbul</h3>
+<h3 align="center">A desirous Software Developer from Istanbul</h3>
 
 
 
-- 🌱 I’m currently learning **Javascript**
-
-- 💬 Ask me about **.Net Framework Core**
+- 💬 Ask me about **.Net Framework**
 
 - 📫 How to reach me **mertbulutoglu95@gmail.com**
 
