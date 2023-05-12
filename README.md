@@ -3,7 +3,7 @@
 
 
 
-- 💬 Ask me about **.Net Framework**
+- 💬 Ask me about **.Net 6.0**
 
 - 📫 How to reach me **mertbulutoglu95@gmail.com**
 
